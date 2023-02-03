@@ -1,0 +1,90 @@
+body {
+    background: #533d2a;
+}
+
+.braumbanner {
+    width: 100%;
+}
+
+.braumfoto {
+    position: relative;
+    left: 00px;
+    top: -208px;
+    width: 150px;
+    height: 150px;
+    border-top: 7px solid #533D2A;
+    border-right: 7px solid #533D2A;
+    border-left: 7px solid #533D2A;
+    margin-left: 10%;
+    
+}
+
+nav {
+    background: #2B2520;
+    padding: 1%;
+    position: relative;
+    top: -211px;
+}
+
+nav li {
+    display: inline;
+    color: #ffffff;
+    margin: 0 0 0 1%;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#tituloprincipal {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 40%;
+    margin-left: 8%;
+}
+
+.biografia {
+    position: relative;
+    background: #2B2520;
+    padding-top: 2%;
+    top: -150px;
+}
+
+#biografia-1linha-h1 {
+    position: relative;
+    text-transform: uppercase;
+    color: #EEE6D2;
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+    top: 0px;
+}
+
+#biografia-2linha-h2 {
+    position: relative;
+    text-transform: uppercase;
+    color: #C3AA6D;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 1%;
+}
+
+#biografia-3linha-img {
+    width: 490px;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: inline-block;
+}
+
+#biografia-4linha-p {
+    width: 50%;
+}
