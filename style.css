@@ -53,8 +53,10 @@ nav a {
 .biografia {
     position: relative;
     background: #2B2520;
-    padding-top: 2%;
+    padding-top: 3%;
+    padding-bottom: 3%;
     top: -150px;
+    width: 100%;
 }
 
 #biografia-1linha-h1 {
@@ -75,16 +77,54 @@ nav a {
     font-size: 22px;
     text-align: center;
     padding-top: 1%;
+    padding-bottom: 3%;
 }
 
 #biografia-3linha-img {
-    width: 490px;
+    width: 430px;
     height: auto;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-right: 10%;
-    display: inline-block;
+
 }
 
-#biografia-4linha-p {
-    width: 50%;
+.bio-config-paragrafo {
+    width: 430px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 22px;
+    color: #EEE6D2;
+    text-align: center;
+    line-height: 40px;
+    margin-left: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+text-low-text {
+    width: 30%;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 27px;
+    color: #EEE6D2;
+    text-align: center;
+    line-height: 40px;
 }
