@@ -10,7 +10,7 @@ body {
     position: relative;
     left: 00px;
     top: -208px;
-    width: 150px;
+    width: 160px;
     height: 150px;
     border-top: 7px solid #533D2A;
     border-right: 7px solid #533D2A;
@@ -34,19 +34,19 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #ffffff;
+    color: #FDF2B8;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 22px;
     text-decoration: none;
 }
 
 #tituloprincipal {
     text-transform: uppercase;
-    color: #ffffff;
+    color: #FDF2B8;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 22px;
     text-decoration: none;
-    padding-right: 40%;
+    padding-right: 35%;
     margin-left: 8%;
 }
 
