@@ -1,0 +1,49 @@
+body {
+    background: #DCBD79;
+}
+
+.titulo {
+    position: relative;
+    text-transform: uppercase;
+    color: #533D2A;
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+    top: 0px;
+    margin-top: 2%;
+}
+
+.subtitulo {
+    position: relative;
+    text-transform: uppercase;
+    color: #533D2A;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 1%;
+}
+
+.banner {
+    width: 100%
+}
+
+nav {
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.botao-home {
+    background: #533D2A;
+    padding: 10px 8px;
+    width: 500px;
+    color: #DCBD79;
+    border-radius: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 28px;
+    display: inline-block;
+}
