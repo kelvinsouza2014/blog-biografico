@@ -100,6 +100,38 @@ nav a {
     margin-left: 2%;
 }
 
+.letra-capitular {
+    font-size: 2rem;
+  font-weight: bold;
+  color: #EEE6D2;
+}
+
+.div-video {
+    text-align: center;
+    margin-top: -85px;
+    background: #2B2520;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    width: 100%;
+    margin-bottom: 150px;
+    
+}
+
+#video-1linha-h1 {
+    position: relative;
+    text-transform: uppercase;
+    color: #EEE6D2;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    top: 0px;
+    padding-bottom: 30px;
+}
+
+.video {
+
+}
+
 #noticias {
    
 }
@@ -137,7 +169,6 @@ nav a {
     padding-left: 5%;
     padding-top: 3%;
     padding-bottom: 3%;
-    width: 100%;
     margin-top: -85px;
     margin-bottom: 20px;
 }
@@ -158,7 +189,6 @@ nav a {
     padding-left: 5%;
     padding-top: 3%;
     padding-bottom: 3%;
-    width: 100%;
 }
 
 .ler-mais-2 {
@@ -176,7 +206,6 @@ text-decoration: none;
     padding-left: 5%;
     padding-top: 3%;
     padding-bottom: 3%;
-    width: 100%;
 }
 
 .ler-mais-3 {
@@ -186,6 +215,42 @@ text-decoration: none;
 
 .ler-espaçamento-3 {
     padding-top: 15px;
+}
+
+.div-video-2 {
+    text-align: center;
+    margin-top: 65px;
+    background: #2B2520;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    width: 100%;
+    margin-bottom: 40px;
+    
+}
+
+#video-2-1linha-h1 {
+    position: relative;
+    text-transform: uppercase;
+    color: #EEE6D2;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    top: 0px;
+    padding-bottom: 20px;
+}
+
+#video-2-2linha-h2 {
+    position: relative;
+    text-transform: uppercase;
+    color: #C3AA6D;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.video-2 {
+    
 }
 
 .copyright {
