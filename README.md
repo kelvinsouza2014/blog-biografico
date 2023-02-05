@@ -77,6 +77,6 @@ Tarefas:
         [] - Adicionar margem superior
 
     --Rodapé
-        [] - Modificação de fonte (Times Womans)
+        [] - Modificação de fonte (Times new roman)
         [] - Alterar o tamanho da fonte (_ _px) 
         [] - Adicionar margem inferior
