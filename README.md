@@ -1,82 +1,181 @@
-# projeto_6_dias_ccc
-
-Tarefas:
-
--HTML:
-
-    --Cabeçalho
-        [x] - Adicionar o banner principal da página (braum_banner.jpg)
-        [x] - Adicionar a foto / logo (braum_foto.jpg)
-        [x] - Adicionar um menu
-            [x] - Criar um link para a página "Home"
-            [x] - Criar um link para a página "Sobre"
-            [x] - Criar um link para a página "História"
-            [x] - Criar um link para a página "Rank"
-            [x] - Criar um link para a página "Wiki"
-            [x] - Criar um link para a página "Contato"
-
-    --Biografia
-        [x] - Criar uma divisão
-        [x] - Adicionar o título principal
-        [x] - Adicionar o subtítulo principal
-        [x] - Adicionar a imagem da biografia
-        [x] - Adicionar o texto da biografia
+# Blog Biográfico
 
 
-    --Notícia 01
-        [x] - Criar uma divisão
-        [x] - Criar uma classe para estilizar todas as notícias (notícias 01 / 02 / 03)
-        [x] - Criar título de notícias
-        [x] - Criar subtítulo
-        [x] - Adicionar a imagem da primeira notícia
-        [x] - Adicionar a resenha da notícia
-        [x] - Adicionar o link para notícia (Ler mais...)
+## HTML:
 
-    --Notícia 02
-        [x] - Criar título de notícias
-        [x] - Criar subtítulo
-        [x] - Adicionar a imagem da primeira notícia
-        [x] - Adicionar a resenha da notícia
-        [x] - Adicionar o link para notícia (Ler mais...)
+### Cabeçalho:
+- [x] Criar estrutura base
+- [x] Configurar as meta tags
+- [x] Adicionar a imagem de capa (imagem) principal (banner)
+- [x] Adicionar a imagem do personagem principal
+- [x] Criar estrutura do menu de navegação
+- [x] Adicionar uma lista não ordenada
+- [x] Adicionar 7 elementos da lista não ordenada
+- [x] Adicionar dentro dos 7 elementos um hiperlink
 
-    --Notícia 03
-        [x] - Criar título de notícias
-        [x] - Criar subtítulo
-        [x] - Adicionar a imagem da primeira notícia
-        [x] - Adicionar a resenha da notícia
-        [x] - Adicionar o link para notícia (Ler mais...)
+### Conteúdo principal:
+- [x] Criar uma divisão de conteúdo
+- [x] Adicionar o título principal da página
+- [x] Adicionar o subtítulo principal da página
+- [x] Adicionar uma imagem do personagem
+- [x] Adicionar um parágrafo
+- [x] Adicionar um separador de elemento genérico da linha na primeira letra do texto
 
-    --Rodapé
-        [x] - Criar uma divisão
-        [x] - Adicionar o texto de copyright
-        
--CSS
+- [x] Criar uma divisão de conteúdo
+- [x] Adicionar um título
+- [x] Adicionar um vídeo (Youtube)
 
-    --Cabeçalho
-        [] - Adicionar a cor "#533D2A" na tag "body"
-        [] - Adicionar margem na lateral esquerda da foto / logo
-        [] - Adicionar bordas na parte superior e nas laterais da cor "#533D2A" na foto / logo
-        [] - Adicionar uma cor de fundo no menu (cor: #2B2520)
-        [] - Adicionar o espaçamento de _ _px entre o cabeçalho e o primeiro bloco
+- [x] Criar uma divisão de conteúdo
+- [x] Adicionar um título
+- [x] Adicionar um subtítulo
+- [x] Adicionar uma imagem
+- [x] Adicionar um parágrafo
+- [x] Adicionar um parágrafo
 
-    --Biografia
-        [] - Modificar a fonte do título principal (font:___)
-        [] - Aumentar o tamanho da fonte (_ _px)
-        [] - Modificar a cor do título principal (cor:#_ _ _ _ _ _)
-        [] - Modificar a fonte do subtítulo principal (font:___)
-        [] - Modificar a cor do título principal (cor:#_ _ _ _ _ _)
-        [] - Modificar a estrutura da linha (display) para ter duas colunas
-        [] - Adicionar margens laterais (esquerda / direita)
-        [] - Adicionar espaçamento interno, inferior (_ _px)
-        [] - Adicionar espaçamento externo (_ _px)
+- [x] Criar uma divisão de conteúdo
+- [x] Adicionar um título
+- [x] Adicionar um subtítulo
+- [x] Adicionar uma imagem
+- [x] Adicionar um parágrafo
+- [x] Adicionar um parágrafo
 
-    --Notícias
-        [] - Adicionar margens 
-        [] - Trabalhar os espaçamentos dos textos
-        [] - Adicionar a todos os elementos para alinhamento a esquerda
-        [] - Adicionar margem superior
+- [x] Criar uma divisão de conteúdo
+- [x] Adicionar um título
+- [x] Adicionar um subtítulo
+- [x] Adicionar uma imagem
+- [x] Adicionar um parágrafo
+- [x] Adicionar um parágrafo
 
-    --Rodapé
-        [] - Modificação de fonte (Times new roman)
-        [] - Alterar o tamanho da fonte (_ _px) 
-        [] - Adicionar margem inferior
+### Rodapé
+- [x] Criar uma divisão de conteúdo
+- [x] Adicionar um título
+- [x] Adicionar um subtítulo
+- [x] Adicionar um vídeo (Youtube)
+
+- [x] Criar uma divisão de conteúdo
+- [x] Adicionar um parágrafo
+
+## CSS:
+
+- [x] Adicionar uma cor de fundo para toda página
+
+### Cabeçalho
+- [x] Definir largura da capa (imagem) principal (banner)
+- [x] Definir o posicionamento da foto principal
+- [x] Definir a largura da foto principal
+- [x] Definir a altura da foto principal
+- [x] Adicionar borda superior na foto principal
+- [x] Adicionar borda lateral direita na foto principal
+- [x] Adicionar borda lateral esquerda na foto principal
+- [x] Adicionar margem na foto principal
+
+- [x] Adicionar uma cor de fundo no menu de navegação
+- [x] Definir espaçamento interno
+- [x] Definir posicionamento
+
+- [x] Definir o modo de exibição dos elementos da lista não ordenada
+- [x] Definir a cor dos elementos da lista não ordenada
+- [x] Adicionar margem
+
+- [x] Definir o modo de exibição visual do texto para letras maiúsculas do hiperlink
+- [x] Definir cor dos elementos do hiperlink
+- [x] Definir o peso da fonte para "negrito" no hiperlink
+- [x] Definir o tamanho da fonte do texto do hiperlink
+- [x] Definir remoção de decorações visuais dos hiperlinks
+
+- [x] Definir o modo de exibição visual do texto para letras maiúsculas do título principal
+- [x] Definir a cor dos elementos do título principal
+- [x] Definir o peso da fonte para "negrito" no título principal
+- [x] Definir o tamanho da fonte do texto do título principal
+- [x] Definir remoção de decorações visuais do título principal
+- [x] Adicionar espaçamento interno lateral direito no título principal
+- [x] Adicionar margem lateral esquerda no título principal
+
+### Conteúdo principal:
+- [x] Definir posicionamento de bloco de de conteúdo
+- [x] Adicionar uma cor de fundo ao bloco de de conteúdo
+- [x] Adicionar espaçamento interno superior ao bloco de de conteúdo
+- [x] Adicionar espaçamento interno inferior ao bloco de de conteúdo
+
+- [x] Definir posicionamento de título
+- [x] Definir o modo de exibição visual do texto para letras maiúsculas do título
+- [x] Definir a cor do elemento do título
+- [x] Definir o peso da fonte do título
+- [x] Definir o tamanho da fonte do título
+- [x] Definir o alinhamento do conteúdo do título
+
+- [x] Definir posicionamento de subtítulo
+- [x] Definir o modo de exibição visual do texto para letras maiúsculas do subtítulo
+- [x] Definir a cor do elemento do subtítulo
+- [x] Definir o peso da fonte do subtítulo
+- [x] Definir o tamanho da fonte do subtítulo
+- [x] Definir o alinhamento do conteúdo do subtítulo
+- [x] Adicionar espaçamento interno superior e inferior do subtítulo
+
+- [x] Definir largura de imagem
+- [x] Definir altura de imagem
+- [x] Definir margens laterais esquerda e direita da imagem
+
+- [x] Definir a largura do parágrafo
+- [x] Definir a Altura do parágrafo
+- [x] Definir o modo de exibição do parágrafo
+- [x] Definir o alinhamento vertical do parágrafo
+- [x] Definir o tamanho da fonte do parágrafo
+- [x] Definir a cor do elemento do parágrafo
+- [x] Definir o alinhamento do parágrafo
+- [x] Definir o espaçamento entre linhas do parágrafo
+- [x] Adicionar margem lateral esquerda no parágrafo
+
+- [x] Definir o tamanho da fonte da letra captular
+- [x] Definir o peso da fonte da letra captular
+- [x] Definir a cor do elemento da letra captular
+
+- [x] Definir alinhamento do bloco de de conteúdo
+- [x] Adicionar margem superior do bloco de de conteúdo
+- [x] Definir a cor de fundo do bloco de de conteúdo
+- [x] Definir o espaçamento interno superior e inferior bloco de de conteúdo
+- [x] Definir a largura do bloco de de conteúdo
+- [x] Adicionar margem inferior do bloco de de conteúdo
+
+- [x] Definir posicionamento do título
+- [x] Definir o modo de exibição visual do texto para letras maiúsculas do título
+- [x] Definir a cor do elemento do título
+- [x] Definir o peso da fonte do título
+- [x] Definir o tamanho da fonte do título
+- [x] Definir alinhamento do título
+- [x] Adicionar espaçamento interno inferior do título
+
+- [x] Definir o modo de exibição visual do texto para letras maiúsculas da notícia
+- [x] Definir a cor do elemento da notícia
+- [x] Definir o peso da fonte da notícia
+- [x] Definir o tamanho da fonte da notícia
+- [x] Adicionar espaçamento interno inferior da notícia
+
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
