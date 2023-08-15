@@ -13,17 +13,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ![ks_form_01](https://github.com/kelvinsouza2014/ks-form/assets/121948262/e68eebbd-884b-4169-aac4-5a545159af57)
 <table>
   <tr>
-    <td width="25%">
+    <td width="50%">
       <img src="./imagens/braum_praia.jpg" alt="Imagem 21">
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="./imagens/braum_praia.jpg" alt="Imagem 2">
-    </td>
-      <td width="25%">
-      <img src="./imagens/braum_praia.jpg" alt="Imagem 3">
-    </td>
-    <td width="25%">
-      <img src="./imagens/braum_praia.jpg" alt="Imagem 4">
     </td>
   </tr>
 </table>
