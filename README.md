@@ -14,7 +14,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <table>
   <tr>
     <td width="25%">
-      <img src="![netflix_00](https://github.com/kelvinsouza2014/blog-biografico/assets/121948262/9da6c035-58e3-42bd-97b8-5784bcc1a098)" alt="Imagem 1">
+      ![netflix_00](https://github.com/kelvinsouza2014/blog-biografico/assets/121948262/9da6c035-58e3-42bd-97b8-5784bcc1a098)
     </td>
     <td width="25%">
       <img src="![netflix_00](https://github.com/kelvinsouza2014/blog-biografico/assets/121948262/9da6c035-58e3-42bd-97b8-5784bcc1a098)" alt="Imagem 2">
