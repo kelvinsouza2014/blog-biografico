@@ -10,14 +10,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <br>
 
 ## Resultado final
-![ks_form_01](https://github.com/kelvinsouza2014/ks-form/assets/121948262/e68eebbd-884b-4169-aac4-5a545159af57)
 <table>
   <tr>
     <td width="50%">
-      <img src="./imagens/braum_praia.jpg" alt="Imagem 21">
+      <img src="./imagens/preview_braum_00" alt="Imagem 21">
     </td>
     <td width="50%">
-      <img src="./imagens/braum_praia.jpg" alt="Imagem 2">
+      <img src="./imagens/preview_braum_01" alt="Imagem 2">
     </td>
   </tr>
 </table>
@@ -25,10 +24,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <table>
   <tr>
     <td width="50%">
-      <img src="./imagens/braum_praia.jpg" alt="Imagem 21">
+      <img src="./imagens/preview_braum_02" alt="Imagem 21">
     </td>
     <td width="50%">
-      <img src="./imagens/braum_praia.jpg" alt="Imagem 2">
+      <img src="./imagens/preview_braum_03" alt="Imagem 2">
     </td>
   </tr>
 </table>
@@ -36,10 +35,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <table>
   <tr>
     <td width="50%">
-      <img src="./imagens/braum_praia.jpg" alt="Imagem 21">
+      <img src="./imagens/preview_braum_04" alt="Imagem 21">
     </td>
     <td width="50%">
-      <img src="./imagens/braum_praia.jpg" alt="Imagem 2">
+      <img src="./imagens/preview_braum_05" alt="Imagem 2">
     </td>
   </tr>
 </table>
