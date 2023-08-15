@@ -22,6 +22,27 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./imagens/braum_praia.jpg" alt="Imagem 21">
+    </td>
+    <td width="50%">
+      <img src="./imagens/braum_praia.jpg" alt="Imagem 2">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./imagens/braum_praia.jpg" alt="Imagem 21">
+    </td>
+    <td width="50%">
+      <img src="./imagens/braum_praia.jpg" alt="Imagem 2">
+    </td>
+  </tr>
+</table>
 
 <br>
 
