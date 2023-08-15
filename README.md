@@ -13,17 +13,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <table>
   <tr>
     <td width="50%">
-<<<<<<< HEAD
       <img src="./imagens/preview_braum_00.png" alt="Imagem 1">
     </td>
     <td width="50%">
       <img src="./imagens/preview_braum_01.png" alt="Imagem 2">
-=======
-      <img src="./imagens/preview_braum_00" alt="Imagem 1">
-    </td>
-    <td width="50%">
-      <img src="./imagens/preview_braum_01" alt="Imagem 2">
->>>>>>> 4b2c4af36d7bba854a842a81f4c555f050403a7b
     </td>
   </tr>
 </table>
@@ -31,17 +24,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <table>
   <tr>
     <td width="50%">
-<<<<<<< HEAD
       <img src="./imagens/preview_braum_02.png" alt="Imagem 3">
     </td>
     <td width="50%">
       <img src="./imagens/preview_braum_03.png" alt="Imagem 4">
-=======
-      <img src="./imagens/preview_braum_02" alt="Imagem 3">
-    </td>
-    <td width="50%">
-      <img src="./imagens/preview_braum_03" alt="Imagem 4">
->>>>>>> 4b2c4af36d7bba854a842a81f4c555f050403a7b
     </td>
   </tr>
 </table>
@@ -49,13 +35,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <table>
   <tr>
     <td width="50%">
-      <img src="./imagens/preview_braum_04.png" alt="Imagem 5">
+      <img src="./imagens/preview_braum_00.png" alt="Imagem 5">
     </td>
     <td width="50%">
-      <img src="./imagens/preview_braum_05.png" alt="Imagem 6">
+      <img src="./imagens/preview_braum_00.png" alt="Imagem 6">
     </td>
   </tr>
 </table>
+
 
 <br>
 
